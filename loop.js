@@ -123,47 +123,46 @@
 // }
 // console.log(num)
 
-console.log("ugugdsun toonii tsipruudiig ugeer hevleh")
-let words=(prompt("duriin toog useg bolgoh"))
-i=0
-useg1="one"
-useg2="two"
-useg3="three"
-useg4="four"
-useg5="five"
-useg6="six"
-useg7="seven"
-useg8="nine"
-useg9="eight"
-useg0="zero"
+// console.log("ugugdsun toonii tsipruudiig ugeer hevleh")
+// let words=(prompt("duriin toog useg bolgoh"))
+// i=0
+// useg1="one"
+// useg2="two"
+// useg3="three"
+// useg4="four"
+// useg5="five"
+// useg6="six"
+// useg7="seven"
+// useg8="nine"
+// useg9="eight"
+// useg0="zero"
 
-let useg = "";
-while (i<words.length){
-    if(words[i]=="9"){
-        console.log(useg9);
-        useg += useg9 + " ";
-    } else if(words[i]=="8"){
-        console.log(useg8);
-    }else if(words[i]=="7"){
-        console.log(useg7);
-        useg += useg7;
-    }else if(words[i]=="6"){
-        console.log(useg6);
-    }else if(words[i]=="5"){
-        console.log(useg5);
-    }else if(words[i]=="4"){
-        console.log(useg4);
-    }else if(words[i]=="3"){
-        console.log(useg3);
-    }else if(words[i]=="2"){
-        console.log(useg2);
-    }else if(words[i]=="1"){
-        console.log(useg1);
-    }else if(words[i]=="0"){
-        console.log(useg0);
-    } else{
-        alert("zuv utga oruulna uu")
-    }
-    i++
-} 
-console.log(useg)
+// let useg = "";
+// while (i<words.length){
+//     if(words[i]==="9"){
+//         useg += useg9 + " ";
+//     } else if(words[i]==="8"){
+//         useg += useg8 + " ";
+//     }else if(words[i]==="7"){
+//         useg += useg7 + " ";
+//     }else if(words[i]==="6"){
+//         useg += useg6 + " ";
+//     }else if(words[i]==="5"){
+//         useg += useg5 + " ";
+//     }else if(words[i]==="4"){
+//         useg += useg4 + " ";
+//     }else if(words[i]==="3"){
+//         useg += useg3 + " ";
+//     }else if(words[i]==="2"){
+//         useg += useg2 + " ";
+//     }else if(words[i]==="1"){
+//         useg += useg1 + " ";
+//     }else if(words[i]==="0"){
+//         useg += useg0 + " ";
+//     } else{
+//         alert("zuv utga oruulna uu")
+//     }
+//     i++
+// } 
+// console.log(useg)
+
